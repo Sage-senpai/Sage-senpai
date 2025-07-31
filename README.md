@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sage-senpai
-- 👀 I’m interested in Web designing and app dev
-- 🌱 I’m currently learning HTML/Css python
-- 💞️ I’m looking to collaborate on some front end dev for webpages and app dev
+- 👀 I’m a front-end pro dev (react/javascript)
+- 🌱 I’m currently learning Solidity, Next.js and blockchain smart contracts
+- 💞️ I’m looking to collaborate on some frontEnd design for webpages, Apps and Blockchain projects 
 - 📫 How to reach me ... anyadikedivine0@gmail.com
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ... i got tech rizz
