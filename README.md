@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sage-senpai
-- 👀 I’m a front-end pro dev (Typescript - React/React-Natuve
-- 🌱 I’m currently learning Solidity and Rust for smart contracting
-- 💞️ I’m looking to collaborate on some frontEnd design for webpages, Apps and Blockchain projects 
+- 👀 I’m a Fullstack dev (Typescript - React/React-Native, Next.js, Node.js, python and supabase)
+- 🌱 I’m currently learning Solidity and INK for smart contracting
+- 💞️ I’m looking to collaborate on some frontEnd design for websites, dApps and Blockchain projects 
 - 📫 How to reach me ... anyadikedivine0@gmail.com
 - 😄 Pronouns: ...he/him
 - fun fact : I've attented 30+ tech meetups; 15+ web3 events, contributed as a speaker or event manager in 10 different events and has hosted onboarding spaces on X into the polkadot ecosystem
