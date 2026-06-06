@@ -1,70 +1,72 @@
-<h1 align="center">Hi, I'm Anyadike Divine 👋</h1>
-<p align="center">
-  <b>Full-Stack & Web3 Engineer</b> · Smart Contracts · Community Builder<br/>
-  <i>I ship production-grade products end-to-end — frontend, backend, and on-chain.</i>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://portfolio-dvyne.vercel.app"><img src="https://img.shields.io/badge/Portfolio-C0182A?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://x.com/sage_senpeak"><img src="https://img.shields.io/badge/X%2FTwitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/anyadikedivine"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:anyadikedivine0@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+# Anyadike Divine
 
----
+`Full-Stack & Web3 Engineer`  ·  `Smart Contracts`  ·  `Community`
 
-### 🚀 What I do
+I build the whole thing. Frontend, backend, contracts. Then I ship it.
 
-- 🧩 **Full-stack builds** — React, Next.js, React Native, Node.js, Python, Supabase
-- ⛓️ **Smart contracts** — Solidity, ink!/Substrate, Move, Soroban, Anchor
-- 🌍 **Shipped 27+ live products** across Polkadot, Solana, 0G, Stellar, Mandala, Mantle & Pacifica
-- 🛠️ **Client work** — landing pages, e-commerce, dashboards, and full web apps that ship and stay maintained
-- 🎤 **Community** — workshop lead, hackathon competitor, ecosystem ambassador, technical writer (50K+ impressions)
+<br/>
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D0D0D?style=flat-square&logo=vercel&logoColor=white&labelColor=0D0D0D)](https://portfolio-dvyne.vercel.app)
+[![X](https://img.shields.io/badge/X-0D0D0D?style=flat-square&logo=x&logoColor=white&labelColor=0D0D0D)](https://x.com/sage_senpeak)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=flat-square&logo=linkedin&logoColor=white&labelColor=0D0D0D)](https://www.linkedin.com/in/anyadikedivine)
+[![Email](https://img.shields.io/badge/Email-0D0D0D?style=flat-square&logo=gmail&logoColor=white&labelColor=0D0D0D)](mailto:anyadikedivine0@gmail.com)
 
-### 🛠️ Tech Stack
+![Followers](https://img.shields.io/github/followers/Sage-senpai?style=flat-square&logo=github&logoColor=white&label=Followers&labelColor=0D0D0D&color=C0182A)
+![Profile views](https://komarev.com/ghpvc/?username=Sage-senpai&style=flat-square&label=Views&color=C0182A)
+![Stars](https://img.shields.io/github/stars/Sage-senpai?style=flat-square&logo=github&logoColor=white&label=Stars&labelColor=0D0D0D&color=C0182A)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Polkadot](https://img.shields.io/badge/Polkadot-E6007A?style=flat-square&logo=polkadot&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+</div>
 
----
+<br/>
 
-### ✨ Featured Projects
+### What I do
+
+I'm a full-stack dev who got pulled into Web3 and stayed. Most days that's React or Next.js on the front, Node or Supabase behind it, and Solidity or ink! when something needs to live on-chain. 27+ projects shipped and live right now, not parked in a `wip` branch.
+Build       React · Next.js · React Native · Node.js · Python · Supabase
+On-chain    Solidity · ink!/Substrate · Move · Soroban · Anchor
+Chains      Polkadot · Solana · 0G · Stellar · Mandala · Mantle · Pacifica
+Clients     Landing pages, e-commerce, dashboards, full apps. Built and maintained.
+Beyond      Workshop lead, hackathon regular, ecosystem ambassador. 30+ meetups.
+
+
+<br/>
+
+### Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-0D0D0D?style=flat-square&logo=typescript&logoColor=white&labelColor=0D0D0D)
+![React](https://img.shields.io/badge/React-0D0D0D?style=flat-square&logo=react&logoColor=white&labelColor=0D0D0D)
+![Next.js](https://img.shields.io/badge/Next.js-0D0D0D?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=0D0D0D)
+![React Native](https://img.shields.io/badge/React_Native-0D0D0D?style=flat-square&logo=react&logoColor=white&labelColor=0D0D0D)
+![Node.js](https://img.shields.io/badge/Node.js-0D0D0D?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0D0D0D)
+![Python](https://img.shields.io/badge/Python-0D0D0D?style=flat-square&logo=python&logoColor=white&labelColor=0D0D0D)
+![Solidity](https://img.shields.io/badge/Solidity-0D0D0D?style=flat-square&logo=solidity&logoColor=white&labelColor=0D0D0D)
+![Rust](https://img.shields.io/badge/Rust-0D0D0D?style=flat-square&logo=rust&logoColor=white&labelColor=0D0D0D)
+![Supabase](https://img.shields.io/badge/Supabase-0D0D0D?style=flat-square&logo=supabase&logoColor=white&labelColor=0D0D0D)
+![Solana](https://img.shields.io/badge/Solana-0D0D0D?style=flat-square&logo=solana&logoColor=white&labelColor=0D0D0D)
+![Polkadot](https://img.shields.io/badge/Polkadot-0D0D0D?style=flat-square&logo=polkadot&logoColor=white&labelColor=0D0D0D)
+
+<br/>
+
+### Selected work
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**SOL'D**](https://sold-earn.vercel.app) | Bounty-driven sales engine with on-chain USDC escrow | Next.js · Anchor · Solana |
-| [**LoreLich**](https://lorelich-vault.vercel.app) | AI ancestral-story vault with soulbound ownership | Next.js · 0G SDK · IPFS · AI |
-| [**DOTique**](https://dot-ique.vercel.app) | Mobile-first NFT marketplace on Polkadot | React · Polkadot.js |
-| [**DotVest**](https://dot-vest.vercel.app) | DeFi staking & yield farming | React · PAPI |
-| [**Orbyt**](https://www.orbyt.events) | Campus social event OS | React Native · Expo |
-| [**Client Showcase**](https://client-projectdemo.vercel.app) | 11 full client sites in one app | React 19 · Vite · Framer Motion |
+| [SOL'D](https://sold-earn.vercel.app) | Sales bounties with real USDC locked in on-chain escrow | Next.js · Anchor · Solana |
+| [LoreLich](https://lorelich-vault.vercel.app) | Family stories, encrypted, owned on-chain, with an AI guardian to guide you | Next.js · 0G · IPFS |
+| [DOTique](https://dot-ique.vercel.app) | Mobile-first NFT marketplace on Polkadot | React · Polkadot.js |
+| [DotVest](https://dot-vest.vercel.app) | Staking and yield farming, no PhD required | React · PAPI |
+| [Orbyt](https://www.orbyt.events) | Figuring out which campus event is actually worth your night | React Native · Expo |
+| [Client Showcase](https://client-projectdemo.vercel.app) | 11 full client sites, one React app, each its own brand | React 19 · Vite |
 
----
+<br/>
 
-### 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sage-senpai&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sage-senpai&layout=compact&theme=radical&hide_border=true" height="165"/>
-</p>
+`anyadikedivine0@gmail.com`  ·  `portfolio-dvyne.vercel.app`
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sage-senpai&theme=radical&hide_border=true"/>
-</p>
+Best builders teach too. So I do.
 
----
+</div>
 
-<p align="center"><i>"The best builders are the ones who also teach."</i></p>
-<p align="center">📫 <a href="mailto:anyadikedivine0@gmail.com">anyadikedivine0@gmail.com</a> · 🌐 <a href="https://portfolio-dvyne.vercel.app">portfolio-dvyne.vercel.app</a></p>
